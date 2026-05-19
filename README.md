@@ -1,5 +1,3 @@
-# Retail-Supply-Chain-Sales-Performance-Analysis
-
 # Retail Supply Chain Sales Analysis 
  
 ## Project Summary 
