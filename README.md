@@ -70,7 +70,7 @@ These tables form a Star Schema data model that will be used in Power BI.
 ### Connect Power BI to MySQL
 1. Open Power BI Desktop.
 2. Select **Get Data → MySQL Database**.
-3. Connect to your local `retailco` database.
+3. Connect to your local database.
 4. Load the following tables:
 - `fact_sales`
 - `dim_date`
